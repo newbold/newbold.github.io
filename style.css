@@ -1,0 +1,5 @@
+body { font: normal 4em/120% sans-serif; background: #996600; color: #FFCC66; margin: 1em; }
+q:before { content: '“'; }
+q:after { content: '”'; }
+q,cite { display: block; }
+cite { font-style: normal; text-align: right; margin: 1em 0; }
